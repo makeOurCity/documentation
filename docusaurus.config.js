@@ -8,13 +8,13 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
     title: "Make our City",
     tagline:
       "MoC（Make our City）とは、全国各地で都市に関わるひとり一人の「やりたい！」を実現するために、 市民、行政、企業をつなぐネットワーク型のまちづくりのチャレンジです。",
-    url: "https://your-docusaurus-test-site.com",
+    url: "https://makeOurCity.github.io/documentation",
     baseUrl: "/",
     onBrokenLinks: "throw",
     onBrokenMarkdownLinks: "warn",
     favicon: "img/favicon.ico",
-    organizationName: "Code for Japan", // Usually your GitHub org/user name.
-    projectName: "docusaurus", // Usually your repo name.
+    organizationName: "makeOurtCity", // Usually your GitHub org/user name.
+    projectName: "documentation", // Usually your repo name.
 
     presets: [
       [
