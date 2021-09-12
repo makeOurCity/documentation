@@ -13,7 +13,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
     onBrokenLinks: "throw",
     onBrokenMarkdownLinks: "warn",
     favicon: "img/favicon.ico",
-    organizationName: "makeOurtCity", // Usually your GitHub org/user name.
+    organizationName: "makeOurCity", // Usually your GitHub org/user name.
     projectName: "documentation", // Usually your repo name.
 
     presets: [
