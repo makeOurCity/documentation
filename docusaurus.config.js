@@ -9,7 +9,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
     tagline:
       "MoC（Make our City）とは、全国各地で都市に関わるひとり一人の「やりたい！」を実現するために、 市民、行政、企業をつなぐネットワーク型のまちづくりのチャレンジです。",
     url: "https://makeOurCity.github.io",
-    baseUrl: "/documentation",
+    baseUrl: "/documentation/",
     onBrokenLinks: "throw",
     onBrokenMarkdownLinks: "warn",
     favicon: "img/favicon.ico",
