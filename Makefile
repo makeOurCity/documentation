@@ -2,4 +2,7 @@
 
 
 serve:
-	docker compose run --rm hugo server
+	docker compose run --rm hugo server --bind 0.0.0.0
+
+build:
+	docker compose run --rm hugo
