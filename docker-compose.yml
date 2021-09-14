@@ -1,0 +1,8 @@
+version: "2"
+services:
+  hugo:
+    image: klakegg/hugo:0.88.0-ext
+    working_dir:
+    entrypoint: "hugo"
+    volumes:
+      - .:/app
