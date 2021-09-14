@@ -1,7 +1,7 @@
 version: "2"
 services:
   hugo:
-    image: klakegg/hugo:0.88.0
+    image: klakegg/hugo:0.88.0-ext
     working_dir: /app
     entrypoint: "hugo"
     command: ["server", "--bind", "0.0.0.0"]
