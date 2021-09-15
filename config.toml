@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://makeourcity.github.io/documentation/'
 languageCode = 'ja-JP'
 theme = "ananke"
 title = 'Make our City'
