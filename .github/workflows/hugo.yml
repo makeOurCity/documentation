@@ -1,4 +1,4 @@
-name: Hugo
+name: hugo build
 
 on: [push]
 
