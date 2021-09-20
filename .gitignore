@@ -1,5 +1,6 @@
 # hugo
 public
+resources
 
 # docker
 docker-compose.override.yml
