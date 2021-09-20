@@ -2,3 +2,25 @@ baseURL = 'https://developer.makeour.city'
 languageCode = 'ja-JP'
 theme = "ananke"
 title = 'Make our City'
+
+
+DefaultContentLanguage = "ja"
+SectionPagesMenu = "main"
+enableRobotsTXT = true
+
+[languages]
+  [languages.ja]
+    title = "Make our City"
+    weight = 1
+    contentDir = "content/ja"
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  description = "for Developers"
+  github = "http://github.com/makeourcity/documentation"
+	site_logo = "/images/logo_wide.webp"
+  recent_posts_number = 2
