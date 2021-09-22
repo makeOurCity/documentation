@@ -6,3 +6,7 @@ serve:
 
 build:
 	docker compose run --rm hugo
+
+
+tutorial:
+	docker compose run --rm hugo new tutorials/undefined.md
