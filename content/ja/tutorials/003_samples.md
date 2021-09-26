@@ -6,4 +6,5 @@ draft: false
 
 今回用意したサンプルコードへの一覧です。各言語ごとに別のリポジトリで用意しています。
 
-- [iOS app(Swift)](https://github.com/makeOurCity/shizuoka-university-ios-sample-app)
+-   [iOS app(Swift)](https://github.com/makeOurCity/shizuoka-university-ios-sample-app)
+-   [Amplify.js sample (JavaScript)](https://github.com/makeOurCity/amplify-js-sample)
