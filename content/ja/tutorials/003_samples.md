@@ -6,6 +6,10 @@ draft: false
 
 今回用意したサンプルコードへの一覧です。各言語ごとに別のリポジトリで用意しています。
 
--   [iOS app(Swift)](https://github.com/makeOurCity/shizuoka-university-ios-sample-app)
--   [Amplify.js sample (node.js))](https://github.com/makeOurCity/amplify-js-sample)
--   [node.js](https://github.com/ushios/javascript-sample)
+-   Swift
+    -   [iOS app](https://github.com/makeOurCity/shizuoka-university-ios-sample-app)
+-   JavaScript
+    -   [Amplify.js sample ](https://github.com/makeOurCity/amplify-js-sample)
+    -   [node.js sample](https://github.com/ushios/javascript-sample)
+-   Golang
+    -   [Golang sample](https://github.com/makeOurCity/moc-tweets)
