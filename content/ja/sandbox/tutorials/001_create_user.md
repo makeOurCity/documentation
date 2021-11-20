@@ -10,4 +10,6 @@ https://app.sandbox.makeour.city/ にアクセスし、 `Sign up` をクリッ�
 
 サインアップ後、再度 https://app.sandbox.makeour.city/ にアクセスし、サインアップした際の情報を使用してログインします。
 
+---
+
 [次へ](../002_get_info/)

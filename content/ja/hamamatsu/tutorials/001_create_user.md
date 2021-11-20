@@ -24,4 +24,6 @@ draft: false
 
 ![パスワード変更フォーム](/images/tutorials/change_password_form.png)
 
+---
+
 [次へ](../002_get_info/)
