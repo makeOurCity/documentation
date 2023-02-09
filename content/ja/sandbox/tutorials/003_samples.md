@@ -6,6 +6,8 @@ draft: false
 
 今回用意したサンプルコードへの一覧です。各言語ごとに別のリポジトリで用意しています。
 
+このサンプルコードでは、発行したメールアドレスとパスワードから、トークンを取得するまでのサンプルになります。
+
 -   JavaScript
     -   [Amplify.js sample ](https://github.com/makeOurCity/amplify-js-sample)
     -   [node.js sample](https://github.com/makeOurCity/javascript-sample)
